@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-
+# Random Print
 int main(void)
 {
 	int n;
