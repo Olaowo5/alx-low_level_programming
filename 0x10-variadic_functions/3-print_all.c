@@ -23,7 +23,7 @@ void print_all(const char * const format, ...)
 	while (format != NULL && format[i] != '\0')
 	{
 		j = 0;
-		while (j < 4)
+		while (j < 9)
 		{
 			if (format[i] == *(fm[j]).fm)
 			{
